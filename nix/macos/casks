@@ -1,0 +1,23 @@
+Assumes homebrew is already installed.
+
+# Install homebrew "cask" external command.
+brew tap phinze/homebrew-cask
+brew install brew-cask
+
+# Development app.
+brew cask install mou
+brew cask install iterm2
+brew cask install peepopen
+
+# Install GUI apps.
+brew cask install alfred
+brew cask install google-chrome
+brew cask install firefox
+brew cask install skype
+brew cask install vlc
+brew cask install utorrent
+brew cask install appcleaner
+brew cask install dropbox
+brew cask install android-file-transfer
+brew cask install keka
+brew cask install cyberduck

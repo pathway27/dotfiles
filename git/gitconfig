@@ -1,0 +1,7 @@
+[color]
+	ui = auto
+[user]
+	name = Sreekara
+	email = sree@rubysketch.com
+[push]
+	default = matching
